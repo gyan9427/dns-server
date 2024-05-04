@@ -1,0 +1,1 @@
+This is a MERN stack based project for a DNS server from scratch
